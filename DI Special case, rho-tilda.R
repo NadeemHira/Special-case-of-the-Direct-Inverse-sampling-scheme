@@ -31,6 +31,7 @@ rhohat = rep(0, N)
 v = rep(0, N)
 tausq = rep(0, N)
 s2 = rep(0, N)
+# Finding the simulation results by running loop
 for (l in 1:N) {
   T[l] <- rbinom(1, n, p1) #random binomial number generation
   if(T[l]==0){l=l-1}
