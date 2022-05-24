@@ -54,7 +54,7 @@ mean(B)
 T <- mean((rhohat - mean(rhohat))^2)
 T
 
-# Mean squared error
+# Mean squared error.
 mse <- B^2 + T
 mean(mse)
 
