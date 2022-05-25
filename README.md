@@ -22,3 +22,6 @@ special case of Direct-Inverse sampling scheme.
 ## Coding
 For Coding, I used R program to determine the estimates of rho-hat for both simulations and 
 case study estimates.
+
+## Project Overview
+A quick look at my project https://hiran786.github.io/Special-case-of-the-Direct-Inverse-sampling-scheme/
